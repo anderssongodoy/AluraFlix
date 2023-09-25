@@ -1,4 +1,4 @@
-import { Banner, Header } from "../components"
+import { Banner, Footer, Header } from "../components"
 
 export const Home = () => {
   return (
@@ -9,11 +9,7 @@ export const Home = () => {
         asd
       </div>
 
-      <div className="border-t-4 border-[#2A7AE4]">
-        <div className="flex justify-center mt-2">
-        <img src="/LogoMain.png" alt="" />
-        </div>
-      </div>
+      <Footer/>
     </div>
   )
 }
