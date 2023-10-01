@@ -1,0 +1,56 @@
+{
+    "videos": [
+        {
+            "id": 1,
+            "titulo": "This Is Why",
+            "linkVideo": "https://www.youtube.com/embed/xIYJ7VaSxYY",
+            "linkImagen": "https://s2-g1.glbimg.com/QnLM7EqbcuClYM_Gs4LUF5cWDm4=/0x0:1920x1073/1008x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2022/J/Q/YszQwUQYaiTKndO5x7mg/paramore.png",
+            "categoria": "Categoría 1",
+            "descripcion": "Descripción del Video 1",
+            "codigoSeguridad": "12345"
+        },
+        {
+            "id": 2,
+            "titulo": "The News",
+            "linkVideo": "https://www.youtube.com/embed/YSFa_wOZPXg",
+            "linkImagen": "https://i.ytimg.com/vi/YSFa_wOZPXg/maxresdefault.jpg",
+            "categoria": "Categoría 2",
+            "descripcion": "Descripción del Video 2",
+            "codigoSeguridad": "67890"
+        },
+        {
+            "id": 3,
+            "titulo": "Running Out Of Time",
+            "linkVideo": "https://www.youtube.com/embed/toKJP3luQbI",
+            "linkImagen": "https://www.rockandpop.cl/wp-content/uploads/2023/02/Paramore-running-out-of-time-videoclip-web-1024x576.jpg",
+            "categoria": "Categoría 2",
+            "descripcion": "Descripción del Video 2",
+            "codigoSeguridad": "67890"
+        },
+        {
+            "id": 4,
+            "titulo": "C'est Comme Ca",
+            "linkVideo": "https://www.youtube.com/embed/0tGeMr5iXoA",
+            "linkImagen": "https://www.thebackstage.net/wp-content/uploads/2023/01/paramore-2023.jpg",
+            "categoria": "Categoría 2",
+            "descripcion": "Descripción del Video 2",
+            "codigoSeguridad": "67890"
+        }
+    ],
+    "categorias": [
+        {
+            "id": 1,
+            "nombre": "Categoría 1",
+            "color": "#FF5733",
+            "descripcion": "Descripción de la Categoría 1",
+            "codigoSeguridad": "ABCDE"
+        },
+        {
+            "id": 2,
+            "nombre": "Categoría 2",
+            "color": "#3498DB",
+            "descripcion": "Descripción de la Categoría 2",
+            "codigoSeguridad": "FGHIJ"
+        }
+    ]
+}

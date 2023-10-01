@@ -22,7 +22,7 @@ export const Header = () => {
     return (
         <div className="flex justify-center md:justify-between bg-topbar text-white">
             <div className="m-5">
-                <img src="/LogoMain.png" alt="logito" />
+            <a href="https://fontmeme.com/netflix-font/"><img src="https://fontmeme.com/permalink/230927/ad468504ef843639f8de557d942553af.png" alt="netflix-font" border="0"/></a>
             </div>
             <div className="mt-7 mr-5">
             <Link to="/video" className={`border px-7 py-3 ${ventanaPequena ? 'hidden' : ''}`}>
